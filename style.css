@@ -1,6 +1,10 @@
-.main {
-  background-color: rgb(68, 30, 30);
+img {
+  width: 40%;
+  height: auto;
 }
-.main2 {
-  background-color: rgb(73, 108, 119);
+
+.imgs {
+  display: flex;
+  justify-content: right;
+  align-items: ;
 }
